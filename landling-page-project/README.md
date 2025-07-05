@@ -53,6 +53,5 @@ Component Reuse: Common patterns like buttons and section headers are abstracted
 
 
 📦 Getting Started
-install react 
-npm install
-npm run dev
+ ``bash 
+ git clone https://github.com/purnimagurung/landing-page-project.git
